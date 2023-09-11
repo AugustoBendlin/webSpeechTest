@@ -1,0 +1,18 @@
+.nomeCampo {
+    text-align: right;
+    font-weight: bold;
+}
+
+.valorCampo {
+    text-align: left;
+}
+
+.tabelaPadrao {
+    width: 20%;
+    margin: auto;
+}
+
+.botaoCentralizado {
+    display: flex;
+    justify-content: center;
+}
